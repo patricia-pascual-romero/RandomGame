@@ -3,7 +3,7 @@
 
 //## Variables
 
-let prueba//- Declaramos una variable vacía que contendrá el número aleatorio.
+let prueba //- Declaramos una variable vacía que contendrá el número aleatorio.
 //- Declaramos una variable que contenga el botón del HTML que va a comprobar el número.
 //- Declaramos una variable que contenga el botón del HTML que va a limpiar el localStorage.
 //- Declaramos una variable que contenga el div del HTML que tendrá el texto de resultado.
